@@ -2,10 +2,15 @@
 
 
 Project Name: Test Automation Framework
+
 🖥 Language: C#
+
 🧪 Testing Approach: BDD (Behavior-Driven Development)
+
 🎯 Purpose:
-A robust and maintainable test automation framework designed to support Behavior-Driven Development using Cucumber syntax via SpecFlow alternatives, given SpecFlow is no longer actively maintained. This framework enables seamless collaboration between developers, testers, and non-technical stakeholders by using human-readable feature files to define system behavior.
+
+A robust and maintainable test automation framework designed to support Behavior-Driven Development using Cucumber syntax via SpecFlow alternatives, given SpecFlow is no longer actively maintained. 
+This framework enables seamless collaboration between developers, testers, and non-technical stakeholders by using human-readable feature files to define system behavior.
 
 🧱 Core Features:
 
