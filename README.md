@@ -31,3 +31,9 @@ WebDriverManager – Automatically manages browser driver binaries
 Selenium.WebDriver – Core library for browser automation
 
 Selenium.Support – Provides additional support for advanced WebDriver capabilities
+
+
+Framework Structure 
+
+Scalablity by using multiple projects within one solution 
+
