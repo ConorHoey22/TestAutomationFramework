@@ -32,6 +32,20 @@ Selenium.WebDriver – Core library for browser automation
 
 Selenium.Support – Provides additional support for advanced WebDriver capabilities
 
+Steps 
+Install Nuget packages 
+Create projects  - Reason for multiple packages ... Scalabilty etc 
+
+what does each file do 
+Structure diagram 
+
+
+---- 
+
+
+TEST CASES
+
+
 
 Framework Structure 
 
