@@ -32,11 +32,19 @@ Selenium.WebDriver – Core library for browser automation
 
 Selenium.Support – Provides additional support for advanced WebDriver capabilities
 
-Steps 
+Reqnroll - open-source .NET BDD framework
+Reqnroll is an open-source Cucumber-style BDD test automation framework for .NET. It has been created as a reboot of the SpecFlow project.
+
+
+---
+GUIDE - 
+Install Reqnroll within Extenstion Manager
 Install Nuget packages 
-Create projects  - Reason for multiple packages ... Scalabilty etc 
+Create projects  - Scalablity by using multiple projects within one solution 
 
 what does each file do 
+
+----
 Structure diagram 
 
 
@@ -44,10 +52,5 @@ Structure diagram
 
 
 TEST CASES
-
-
-
-Framework Structure 
-
-Scalablity by using multiple projects within one solution 
+---
 
