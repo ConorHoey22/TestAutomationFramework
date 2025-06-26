@@ -45,12 +45,41 @@ Create projects  - Scalablity by using multiple projects within one solution
 what does each file do 
 
 ----
+
+Folder/File Structure 
+
+Solution: TestAutomationCVExample
+
+
+Project : TestAutomationCVExample.Core
+Summary : Used for interfaces , Framework utilties 
+
+TestAutomationCVExample.Core
+│
+├── Interfaces/                  # Interfaces for abstraction
+│
+├── LocalWebDriver/             # Browser driver setup and management
+│
+├── Logging/                    # Custom logging logic
+│
+├── Reports/                    # Report generation (e.g., HTML, ExtentReport)
+
+Project : TestAutomationFramework.UI 
+Summary : Feature Classes , Test cases , POM , Step Classes
+
+Project : TestAutomationFramework.Tests 
+Summary : Feature Classes  , Resources 
+
+
+
+
+
 Structure diagram 
 
 
----- 
-
-
+----------------------------
 TEST CASES
----
+----------------------------
+
+
 
