@@ -44,35 +44,64 @@ Create projects  - Scalablity by using multiple projects within one solution
 
 what does each file do 
 
-----
-
-Folder/File Structure 
+--
+Folder/File Structure
 
 Solution: TestAutomationCVExample
 
+Project: TestAutomationCVExample.Core
 
-Project : TestAutomationCVExample.Core
-Summary : Used for interfaces , Framework utilties 
+Summary: Used for interfaces , Framework utilties 
 
 TestAutomationCVExample.Core
-│
-├── Interfaces/                  # Interfaces for abstraction
-│
-├── LocalWebDriver/             # Browser driver setup and management
-│
-├── Logging/                    # Custom logging logic
-│
-├── Reports/                    # Report generation (e.g., HTML, ExtentReport)
 
-Project : TestAutomationFramework.UI 
-Summary : Feature Classes , Test cases , POM , Step Classes
+Solution: TestAutomationCVExample
 
-Project : TestAutomationFramework.Tests 
-Summary : Feature Classes  , Resources 
+Project: TestAutomationCVExample.Core
+
+Summary: Used for interfaces and framework utilities.
 
 
 
+TestAutomationCVExample.Core/
 
+├── Interfaces/           - Interfaces for abstraction
+
+├── LocalWebDriver/       - Browser driver setup and management
+
+├── Logging/              - Custom logging logic
+
+├── Reports/              - Report generation (e.g., HTML, ExtentReports)
+
+
+
+Project: TestAutomationFramework.UI
+
+Summary: Contains Page Object Model classes, test steps, and BDD features.
+
+
+TestAutomationFramework.UI/
+
+├── Pages/                - Page Object Model classes
+
+├── Steps/                - Step definitions for BDD scenarios
+
+├── Features/             - Gherkin-style .feature files
+
+├── Hooks/                - Setup and teardown logic for tests
+
+
+
+Project: TestAutomationFramework.Tests
+
+Summary: Additional features, test data, and shared resources.
+
+
+TestAutomationFramework.Tests/
+
+├── Features/             - Additional grouped feature files
+
+├── Resources/            - Shared test data and configuration files
 
 Structure diagram 
 
