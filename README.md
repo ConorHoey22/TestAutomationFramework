@@ -44,6 +44,9 @@ Create projects  - Scalablity by using multiple projects within one solution
 
 what does each file do 
 
+
+
+
 --
 Folder/File Structure
 
@@ -65,7 +68,7 @@ Summary: Used for interfaces and framework utilities.
 
 TestAutomationCVExample.Core/
 
-├── Interfaces/           - Interfaces for abstraction
+ Interfaces/           - Interfaces for abstraction
 
 ├── LocalWebDriver/       - Browser driver setup and management
 
@@ -110,5 +113,7 @@ Structure diagram
 TEST CASES
 ----------------------------
 
+
+LOgin 
 
 
