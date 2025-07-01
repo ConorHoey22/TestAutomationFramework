@@ -111,11 +111,13 @@ TestAutomationFramework.Tests/
 Structure diagram 
 
 
+What each file and method does 
+
 ----------------------------
 TEST CASES
 ----------------------------
 
 
-LOgin 
+Lpgin 
 
 
