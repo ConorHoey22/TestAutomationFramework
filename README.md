@@ -32,7 +32,7 @@ Selenium.WebDriver – Core library for browser automation
 
 Selenium.Support – Provides additional support for advanced WebDriver capabilities
 
-AventStack.ExtentReports - Generates HTML Reporting 
+Extentnet.core - Generates HTML Reporting 
 
 Reqnroll - open-source .NET BDD framework
 Reqnroll is an open-source Cucumber-style BDD test automation framework for .NET. It has been created as a reboot of the SpecFlow project.
