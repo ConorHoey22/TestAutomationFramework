@@ -39,6 +39,8 @@ Extentnet.core - Generates HTML Reporting
 Reqnroll - open-source .NET BDD framework
 Reqnroll is an open-source Cucumber-style BDD test automation framework for .NET. It has been created as a reboot of the SpecFlow project.
 
+Serilog , Serilog.Sinks.File  Serilog.Enrichers.Thread- Used for logging
+
 
 ---
 GUIDE - 
