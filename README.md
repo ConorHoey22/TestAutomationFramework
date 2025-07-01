@@ -26,6 +26,8 @@ NUnit for test execution and reporting
 
 NUnit – Test framework for structuring and executing tests
 
+Microsoft.Extensions.Configuration.Json - Ability to read Json files 
+
 WebDriverManager – Automatically manages browser driver binaries
 
 Selenium.WebDriver – Core library for browser automation
